@@ -1,2 +1,5 @@
 .env
 .venv/
+.venv-gpu/
+__pycache__/
+.hf-cache/
