@@ -1,0 +1,4 @@
+torch>=2.2
+transformers>=4.45,<5
+python-dotenv>=1.0,<2
+safetensors>=0.4
